@@ -1,0 +1,58 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1560780552-ba54683cb263?ixlib=rb-1.2.1&w=1000&q=80);
+}
+h1 {
+    background-color: rgb(2, 2, 2);
+    color: floralwhite;
+    margin-right: auto ;
+    margin-left: auto;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    padding: 12px;
+    border-radius: 100px;
+}
+.image {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+}
+.bar {
+    padding: 10px;
+    text-align: right;
+}
+.searchterm {
+    list-style-type: none;
+    text-align: center;
+}
+.options {
+    text-align: center;
+    background: rgb(5, 5, 5);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    width: 700px;
+    font-size: x-large;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+   
+}
+.options:hover {
+    box-shadow: 18px 18px 18px rgba(0, 0, 0, 0.678); 
+}
+.image4 {
+    width: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    display: block;
+}
+h3 {
+    text-align: center;
+}
+.image4:hover {
+    box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.678); 
+}
